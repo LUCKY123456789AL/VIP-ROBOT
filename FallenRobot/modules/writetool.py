@@ -56,11 +56,12 @@ Successfully Written Text 💘
         )
 
 
-__mod_name__ = "WʀɪᴛᴇTᴏᴏʟ"
+__mod_name__ = "⭐𝐖𝐑𝐈𝐓𝐄𝐓𝐎𝐎𝐋🌟"
 
 __help__ = """
 
  Writes the given text on white page with a pen 🖊
 
 ❍ /write <text> *:* Writes the given text.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊 @THE_VIP_BOY⛦⃕͜🇮🇳 𓊉 𓆩🦋𓆪
  """
