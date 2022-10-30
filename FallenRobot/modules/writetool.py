@@ -56,7 +56,7 @@ Successfully Written Text 💘
         )
 
 
-__mod_name__ = "⭐𝐖𝐑𝐈𝐓𝐄𝐓𝐎𝐎𝐋🌟"
+__mod_name__ = "⭐𝐖𝐑𝐈𝐓𝐄🌟"
 
 __help__ = """
 
