@@ -213,6 +213,7 @@ __help__ = """
 Hey I can convert files here..
  ❍ /zip*:* reply to a telegram file to compress it in .zip format
  ❍ /unzip*:* reply to a telegram file to decompress it from the .zip format
+⏤͟͟͞͞•𓊈 ≛⃝🕊 @THE_VIP_BOY⛦⃕͜🇮🇳 𓊉 𓆩🦋𓆪
 """
 
-__mod_name__ = "Zɪᴘᴘᴇʀ​"
+__mod_name__ = "🤞𝐙𝐈𝐏𝐏𝐄𝐑🖕"
