@@ -1101,6 +1101,7 @@ user joined chat, user left chat.
 
 *Welcome markdown:* 
  ❍ /welcomehelp*:* view more formatting information for custom welcome/goodbye messages.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 NEW_MEM_HANDLER = MessageHandler(Filters.status_update.new_chat_members, new_member)
@@ -1135,7 +1136,7 @@ dispatcher.add_handler(CLEAN_SERVICE_HANDLER)
 dispatcher.add_handler(BUTTON_VERIFY_HANDLER)
 dispatcher.add_handler(WELCOME_MUTE_HELP)
 
-__mod_name__ = "Wᴇʟᴄᴏᴍᴇ"
+__mod_name__ = "🥀𝐖𝐄𝐋𝐂𝐎𝐌𝐄💐"
 __command_list__ = []
 __handlers__ = [
     NEW_MEM_HANDLER,
