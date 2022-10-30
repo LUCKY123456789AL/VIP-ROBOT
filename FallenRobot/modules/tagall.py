@@ -97,9 +97,10 @@ async def cancel_spam(event):
         return await event.respond("__Stopped Mention.__")
 
 
-__mod_name__ = "Tᴀɢ Aʟʟ​"
+__mod_name__ = "🪂𝐌𝐄𝐍𝐓𝐈𝐎𝐍🧚"
 __help__ = """
 ──「 Only for Admins 」──
 
 ❍ /tagall or @all '(reply to message or add another message) To mention all members in your group, without exception.'
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
