@@ -101,7 +101,7 @@ __help__ = """
 *Remove Deleted Accounts*
  ❍ /zombies *:* Starts searching for deleted accounts in the group.
  ❍ /zombies clean *:* Removes the deleted accounts from the group.
- ◉Powered By @THE_VIP_BOY✭
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊 @THE_VIP_BOY⛦⃕͜🇮🇳 𓊉 𓆩🦋𓆪
 """
 
 
