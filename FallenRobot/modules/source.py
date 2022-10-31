@@ -35,7 +35,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://api.whatsapp.com/send?phone=+13212756881",
+                        url="https://wa.me/+13212756881",
                     ),
                 ]
             ]
