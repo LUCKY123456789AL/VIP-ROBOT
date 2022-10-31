@@ -158,6 +158,7 @@ __help__ = """
  ❍ /rmnight*:* Removes Group From NightMode Chats
 
 *Note:* Night Mode chats get Automatically closed at 12 am(IST) and Automatically openned at 6 am(IST) to Prevent Night Spams.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
-__mod_name__ = "Nɪɢʜᴛ​"
+__mod_name__ = "😴𝐍𝐈𝐆𝐇𝐓🌜"
