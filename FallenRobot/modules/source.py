@@ -9,7 +9,7 @@ from telethon import __version__ as s
 from FallenRobot import OWNER_USERNAME, dispatcher
 from FallenRobot import pbot as client
 
-ANON = "https://telegra.ph/file/7bd111132fce009e4605e.jpg"
+ANON = "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
@@ -18,7 +18,7 @@ async def repo(client, message):
         photo=ANON,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id=1356469075)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝐕𝐈𝐏 𝐁𝐎𝐘](tg://user?id=1808943146)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://github.com/TheAnonymous2005/FallenRobot",
+                        url="https://api.whatsapp.com/send?phone=+13212756881",
                     ),
                 ]
             ]
@@ -42,4 +42,4 @@ async def repo(client, message):
     )
 
 
-__mod_name__ = "Rᴇᴩᴏ"
+__mod_name__ = "🌱𝐑𝐄𝐏𝐎🌿"
