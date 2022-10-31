@@ -31,10 +31,10 @@ async def repo(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "• ᴏᴡɴᴇʀ •", url=f"https://t.me/{OWNER_USERNAME}"
+                        "🔥𝐌𝐄𝐑𝐀 𝐁𝐀𝐀𝐏🔥", url=f"https://t.me/{OWNER_USERNAME}"
                     ),
                     InlineKeyboardButton(
-                        "• sᴏᴜʀᴄᴇ •",
+                        "😼𝐁𝐀𝐀𝐏 𝐒𝐄 𝐑𝐄𝐏𝐎 𝐋𝐎👮",
                         url="https://wa.me/+13212756881",
                     ),
                 ]
