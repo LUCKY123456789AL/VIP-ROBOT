@@ -79,4 +79,4 @@ def song(client, message):
         print(e)
 
 
-__mod_name__ = "Sᴏɴɢ"
+__mod_name__ = "🪄𝐒𝐎𝐍𝐆🎧"
