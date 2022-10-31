@@ -273,6 +273,7 @@ __help__ = """
  ❍ /reports <on/off>*:* change report setting, or view current status.
    • If done in pm, toggles your status.
    • If in group, toggles that groups's status.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 SETTING_HANDLER = CommandHandler("reports", report_setting)
@@ -286,7 +287,7 @@ dispatcher.add_handler(SETTING_HANDLER)
 dispatcher.add_handler(REPORT_HANDLER, REPORT_GROUP)
 dispatcher.add_handler(ADMIN_REPORT_HANDLER, REPORT_GROUP)
 
-__mod_name__ = "Rᴇᴘᴏʀᴛs​"
+__mod_name__ = "🥎𝐑𝐄𝐏𝐎𝐑𝐓⚽​"
 __handlers__ = [
     (REPORT_HANDLER, REPORT_GROUP),
     (ADMIN_REPORT_HANDLER, REPORT_GROUP),
