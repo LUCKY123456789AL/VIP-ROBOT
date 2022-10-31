@@ -74,6 +74,7 @@ async def delete_messages(event):
 __help__ = """
  ❍ /del*:* deletes the message you replied to
  ❍ /purge*:* deletes all messages between this and the replied to message.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 PURGE_HANDLER = purge_messages, events.NewMessage(pattern="^[!/]purge$")
@@ -82,6 +83,6 @@ DEL_HANDLER = delete_messages, events.NewMessage(pattern="^[!/]del$")
 telethn.add_event_handler(*PURGE_HANDLER)
 telethn.add_event_handler(*DEL_HANDLER)
 
-__mod_name__ = "Pᴜʀɢᴇ"
+__mod_name__ = "🧑‍🚒𝐏𝐔𝐑𝐆𝐄🧑‍🍳"
 __command_list__ = ["del", "purge"]
 __handlers__ = [PURGE_HANDLER, DEL_HANDLER]
