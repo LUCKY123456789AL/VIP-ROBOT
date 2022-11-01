@@ -103,7 +103,15 @@ buttons = [
         InlineKeyboardButton(text="🥀𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥀", callback_data="help_back"),
     ],
 ]
-
+IMPORTED = {}
+MIGRATEABLE = []
+HELPABLE = {}
+STATS = []
+USER_INFO = []
+DATA_IMPORT = []
+DATA_EXPORT = []
+CHAT_SETTINGS = {}
+USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
