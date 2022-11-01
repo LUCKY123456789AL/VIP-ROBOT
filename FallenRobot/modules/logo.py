@@ -319,10 +319,11 @@ async def lego(event):
             os.remove(fname)
 
 
-__mod_name__ = "Lᴏɢᴏ​"
+__mod_name__ = "​🐑𝐋𝐎𝐆𝐎🦙"
 
 __help__ = """
 I can create some beautiful and attractive logo for your profile pics.
 
 ❍ /logo (Text) *:* Create a logo of your given text with random view.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
