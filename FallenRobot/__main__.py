@@ -83,21 +83,21 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ๏ 𝐇𝐈 𝐌𝐑./𝐌𝐈𝐒𝐒 {} 😅 
 
-🌹𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐇𝐞𝐫𝐞🌹
+            🌹𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐇𝐞𝐫𝐞🌹
 
 ♧ 𝗠𝗬𝗦𝗘𝗟𝗙 {} 😃
 
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
 𝐘𝐄 𝐁𝐎𝐓 𝐁𝐇𝐈 𝐃𝐄𝐊𝐇 𝐋𝐎 𝐘𝐑 𝐁𝐎𝐇𝐎𝐓 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐇𝐀𝐈🙈👇👇
-┏━━━━━━━━━━━━━━━━━━━┓
+┏━━━━━━━━━━━━━━━━━━┓
 ┣★ [MISS ROSE ROBOT](https://t.me/miss_rose_robot) 🌹
 ┣★ [TG MANAGER ROBOT](https://t.me/tg_manager_robot) 💫
 ┣★ [THE KANISHKA BOT](https://t.me/the_kanishka_bot) 💥
 ┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
-┗━━━━━━━━━━━━━━━━━━━┛.
-@
-⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊@THE_VIP_BOY⛦⃕͜🇮🇳𓊉
+┗━━━━━━━━━━━━━━━━━━┛.
+
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 
 ๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
 """
@@ -123,7 +123,7 @@ HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
 𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『V҉I҉P҉ ҉D҉U҉N҉I҉A҉』🔥](https://t.me/vip_dunia)
-                    	⃤
+                   
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 	          
@@ -222,7 +222,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_sticker(
-                "CAACAgUAAxkBAAJYsmLWRvm70cE-mmxSNCovEf4v1ueJAAIcCAACbMK4VuL4EmZEkq8WKQQ"
+                "CAADBQAD8wcAAnSt4FePem-s4NJDjwI"
             )
             update.effective_message.reply_text(
                 PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
