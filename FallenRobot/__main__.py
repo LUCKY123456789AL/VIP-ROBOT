@@ -81,32 +81,38 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-
+๏ 𝐇𝐈 𝐌𝐑./𝐌𝐈𝐒𝐒 {} 😅 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐇𝐞𝐫𝐞🌹
+♧ 𝗠𝗬𝗦𝗘𝗟𝗙 {} 😃
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
-──────────────────
+𝐘𝐄 𝐁𝐎𝐓 𝐁𝐇𝐈 𝐃𝐄𝐊𝐇 𝐋𝐎 𝐘𝐑 𝐁𝐎𝐇𝐎𝐓 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐇𝐀𝐈🙈👇👇
 
-──────────────────
-*๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.*
+┏━━━━━━━━━━━━━━━━━━━┓
+┣★ @MISS_ROSE_ROBOT 🌹
+┣★ @TG_MANAGER_ROBOT 💫
+┣★ @THE_KANISHKA_BOT 💥
+┣★ 𝐉𝐎𝐈𝐍➪ @VIP_DUNIA 💞
+┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
+┗━━━━━━━━━━━━━━━━━━━┛.
+@
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+
+๏ *ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 ʙᴜᴛᴛᴏɴ* .
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴇʟsᴇ ʏᴏᴜ ɢᴇʏ",
-            url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+            text="🕊️𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 & 𝐀𝐃𝐃 𝐅𝐀𝐒𝐓🕊️",
+            url=f"https://t.me/TG_MANAGER_ROBOT?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="🥵𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥵", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="❄ ᴀʙᴏᴜᴛ ❄", callback_data="fallen_"),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_CHAT}"),
-    ],
-    [
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="☁️ sᴏᴜʀᴄᴇ ☁️", callback_data="source_"),
+        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/VIP_DUNIA"),
+        InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
     ],
 ]
 
@@ -114,15 +120,13 @@ HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
 ➲ /start : ꜱᴛᴀʀᴛꜱ ᴍᴇ | ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍᴇ ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴅᴏɴᴇ ɪᴛ​.
-➲ /donate : sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.
 ➲ /help  : ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.
   ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ​ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.
-  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ."""
+  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ.
 
-DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
-  ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
+"""
 
-ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [ᴅᴇᴠᴇʟᴏᴩᴇʀ](https://t.me/anonymous_was_bot) ғᴏʀ ᴅᴏɴᴀᴛɪɴɢ ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴠɪsɪᴛ ᴍʏ [sᴜᴩᴩᴏʀᴛ ᴄʜᴀᴛ](https://t.me/DevilsHeavenMF) ᴀɴᴅ ᴀsᴋ ᴛʜᴇʀᴇ ᴀʙᴏᴜᴛ ᴅᴏɴᴀᴛɪᴏɴ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
