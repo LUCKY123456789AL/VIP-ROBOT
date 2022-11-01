@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
                 "CAACAgUAAxkBAAJYsmLWRvm70cE-mmxSNCovEf4v1ueJAAIcCAACbMK4VuL4EmZEkq8WKQQ"
             )
             update.effective_message.reply_text(
-                PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),(sql),
+                PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),(sql.num_users),
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
                 timeout=60,
