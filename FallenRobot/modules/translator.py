@@ -60,7 +60,7 @@ sm,sn,so,sq,sr,st,su,sv,sw,ta,te,tg,th,tl,tr,uk,ur,uz,
 vi,xh,yi,yo,zh,zh_CN,zh_TW,zu`
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
-__mod_name__ = "🌊𝐓𝐑𝐀𝐍𝐒𝐋𝐀𝐓𝐎𝐑🌀"
+__mod_name__ = "🌊𝐓𝐑𝐀𝐍𝐒🌀"
 
 TRANSLATE_HANDLER = DisableAbleCommandHandler(["tr", "tl"], totranslate)
 
