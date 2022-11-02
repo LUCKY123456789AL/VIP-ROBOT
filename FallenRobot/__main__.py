@@ -97,7 +97,7 @@ PM_START_TEXT = """
 ┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
 ┗━━━━━━━━━━━━━━━━━━┛
 ┏━━━━━━━━━━━━━━━━━━┓
-┣★*➻ ᴜsᴇʀs »* {sql.num_users()}
+┣★*➻ ᴜsᴇʀs »* {}
 ┗━━━━━━━━━━━━━━━━━━┛
 
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
@@ -238,7 +238,7 @@ def start(update: Update, context: CallbackContext):
                 "CAADBQAD8wcAAnSt4FePem-s4NJDjwI"
             )
             update.effective_message.reply_text(
-                PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME),
+                PM_START_TEXT.format(escape_markdown(first_name), BOT_NAME), sql.num_users()),
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
                 timeout=60,
