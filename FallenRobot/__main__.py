@@ -95,7 +95,10 @@ PM_START_TEXT = """
 ┣★ [TG MANAGER ROBOT](https://t.me/tg_manager_robot) 💫
 ┣★ [THE KANISHKA BOT](https://t.me/the_kanishka_bot) 💥
 ┣★ 𝐄𝐍𝐉𝐎𝐘 𝐊𝐑𝐎 😂💃💃 
-┗━━━━━━━━━━━━━━━━━━┛.
+┗━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━┓
+┣★*➻ ᴜsᴇʀs »* {sql.num_users()}"
+┗━━━━━━━━━━━━━━━━━━┛
 
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 
