@@ -54,6 +54,7 @@ Status = {status}
 
 __help__ = """
  ❍ /imdb <Movie name>*:* Get full info about a movie from [imdb.com](https://m.imdb.com)
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
-__mod_name__ = "Iᴍᴅʙ"
+__mod_name__ = "🤚𝐈𝐌𝐃𝐁👊"
