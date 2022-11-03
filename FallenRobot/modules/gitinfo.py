@@ -5,12 +5,13 @@ from pyrogram import filters
 from FallenRobot import pbot
 from FallenRobot.pyrogramee.errors import capture_err
 
-__mod_name__ = "Gɪᴛʜᴜʙ"
+__mod_name__ = "⛄𝐆𝐈𝐓𝐇𝐔𝐁☃️"
 
 __help__ = """
 I will give information about github profile 
 
  ❍ /github <username>*:* Get information about a GitHub user.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 
@@ -50,7 +51,8 @@ async def github(_, message):
 **Blog:** `{blog}`
 **Location:** `{location}`
 **Followers:** `{followers}`
-**Following:** `{following}`"""
+**Following:** `{following}`
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉"""
             except Exception as e:
                 print(str(e))
     await message.reply_photo(photo=avatar_url, caption=caption)
