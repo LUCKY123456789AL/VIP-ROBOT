@@ -10,26 +10,26 @@ from FallenRobot import telethn as tbot
 from FallenRobot.events import register
 
 PHOTO = [
-    "https://telegra.ph/file/6a21ea6677342f43b363e.jpg",
-    "https://telegra.ph/file/40eb1ed850cdea274693e.jpg",
+    "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
+    "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
 ]
 
 
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://t.me/{OWNER_USERNAME})** \n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [𝄟🐰❤️⃝🇻​​​​​🇮​​​​​≛⃝🇵​​​​​💞🐰𝄟](https://t.me/THE_VIP_BOY)** \n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
     BUTTON = [
         [
-            Button.url("ʜᴇʟᴘ​", f"https://t.me/{dispatcher.bot.username}?start=help"),
-            Button.url("sᴜᴘᴘᴏʀᴛ​", f"https://t.me/{SUPPORT_CHAT}"),
+            Button.url(""👑𝐊𝐈𝐍𝐆👑", f"https://t.me/VIP_CREATORS"),
+            Button.url("​👸𝐐𝐔𝐄𝐄𝐍👸", f"https://t.me/VIP_DUNIA"),
         ]
     ]
     ran = random.choice(PHOTO)
     await tbot.send_file(event.chat_id, ran, caption=TEXT, buttons=BUTTON)
 
 
-__mod_name__ = "Aʟɪᴠᴇ"
+__mod_name__ = "👑𝐀𝐋𝐈𝐕𝐄👸"
