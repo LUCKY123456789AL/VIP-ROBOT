@@ -24,7 +24,7 @@ async def awake(event):
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
     BUTTON = [
         [
-            Button.url(""👑𝐊𝐈𝐍𝐆👑", f"https://t.me/VIP_CREATORS"),
+            Button.url("👑𝐊𝐈𝐍𝐆👑", f"https://t.me/VIP_CREATORS"),
             Button.url("​👸𝐐𝐔𝐄𝐄𝐍👸", f"https://t.me/VIP_DUNIA"),
         ]
     ]
