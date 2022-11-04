@@ -227,6 +227,7 @@ __help__ = """
  ❍ /ignoreblue <word>*:* prevent auto cleaning of the command
  ❍ /unignoreblue <word>*:* remove prevent auto cleaning of the command
  ❍ /listblue*:* list currently whitelisted commands
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 SET_CLEAN_BLUE_TEXT_HANDLER = CommandHandler("cleanblue", set_blue_text_must_click)
@@ -251,7 +252,7 @@ dispatcher.add_handler(REMOVE_CLEAN_BLUE_TEXT_GLOBAL_HANDLER)
 dispatcher.add_handler(LIST_CLEAN_BLUE_TEXT_HANDLER)
 dispatcher.add_handler(CLEAN_BLUE_TEXT_HANDLER, BLUE_TEXT_CLEAN_GROUP)
 
-__mod_name__ = "Bʟᴜᴇᴛᴇxᴛ"
+__mod_name__ = "💙𝐁𝐋𝐔𝐓𝐗𝐓🫐"
 __handlers__ = [
     SET_CLEAN_BLUE_TEXT_HANDLER,
     ADD_CLEAN_BLUE_TEXT_HANDLER,
