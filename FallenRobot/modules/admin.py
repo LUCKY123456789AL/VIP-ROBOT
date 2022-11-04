@@ -991,6 +991,8 @@ __help__ = """
 » /setgpic*:* reply to an image to set as group photo
 » /setdesc*:* Set group description
 » /setsticker*:* Set group sticker
+
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 SET_DESC_HANDLER = CommandHandler("setdesc", set_desc)
@@ -1035,7 +1037,8 @@ dispatcher.add_handler(DEMOTE_HANDLER)
 dispatcher.add_handler(SET_TITLE_HANDLER)
 dispatcher.add_handler(ADMIN_REFRESH_HANDLER)
 
-__mod_name__ = "Aᴅᴍɪɴs"
+__mod_name__ = "👨‍🏭𝐀𝐃𝐌𝐈𝐍👩‍🏭
+"
 __command_list__ = [
     "setdesc" "setsticker" "setgpic" "delgpic" "setgtitle" "adminlist",
     "admins",
