@@ -1,7 +1,7 @@
 {
       "name": "VIP ROBOT",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -151,7 +151,7 @@
       "START_IMG": {
       "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": ""
+         "value": "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg"
    }
    }
 }
