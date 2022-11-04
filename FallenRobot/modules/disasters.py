@@ -647,6 +647,7 @@ Group admins/group owners do not need these commands.
 
 `⚠️ Read from top`
 Visit @{SUPPORT_CHAT} for more information.
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
 
 SUDO_HANDLER = CommandHandler(("addsudo", "adddragon"), addsudo)
@@ -679,7 +680,7 @@ dispatcher.add_handler(SUPPORTLIST_HANDLER)
 dispatcher.add_handler(SUDOLIST_HANDLER)
 dispatcher.add_handler(DEVLIST_HANDLER)
 
-__mod_name__ = "Devs​"
+__mod_name__ = "🦑𝐃𝐄𝐕𝐒🦂​"
 __handlers__ = [
     SUDO_HANDLER,
     SUPPORT_HANDLER,
