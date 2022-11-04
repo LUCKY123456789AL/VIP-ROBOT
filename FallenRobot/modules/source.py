@@ -34,8 +34,8 @@ async def repo(client, message):
                         "🔥𝐌𝐄𝐑𝐀 𝐁𝐀𝐀𝐏🔥", url=f"https://t.me/{OWNER_USERNAME}"
                     ),
                     InlineKeyboardButton(
-                        "😼𝐁𝐀𝐀𝐏 𝐒𝐄 𝐑𝐄𝐏𝐎 𝐋𝐎👮",
-                        url="https://wa.me/+13212756881",
+                        "😱𝐁𝐎𝐓 𝐑𝐄𝐏𝐎/𝐒𝐎𝐔𝐑𝐂𝐄🤩",
+                        url="https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
                     ),
                 ]
             ]
