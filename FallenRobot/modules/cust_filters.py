@@ -629,10 +629,11 @@ doin?
 
 *Note*: Filters also support markdown formatters like: {first}, {last} etc.. and buttons.
 Check ❍ /markdownhelp to know more!
+⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 
 """
 
-__mod_name__ = "Fɪʟᴛᴇʀs"
+__mod_name__ = "🦈𝐅𝐈𝐋𝐓𝐄𝐑🐋"
 
 FILTER_HANDLER = CommandHandler("filter", filters)
 STOP_HANDLER = CommandHandler("stop", stop_filter)
