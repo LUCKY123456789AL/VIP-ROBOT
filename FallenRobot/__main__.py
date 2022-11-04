@@ -117,6 +117,12 @@ buttons = [
         InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/THE_VIP_BOY"),
         InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
     ],
+    [
+        InlineKeyboardButton(
+            text="🥳𝐁𝐎𝐓 𝐑𝐄𝐏𝐎/𝐒𝐎𝐔𝐑𝐂𝐄🤩",
+            url=f"https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+        ),
+    ],
 ]
 
 IMPORTED = {}
