@@ -138,7 +138,7 @@ USER_SETTINGS = {}
 HELP_STRINGS = f"""
 *» {BOT_NAME} ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*
 
-𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『V҉I҉P҉ ҉D҉U҉N҉I҉A҉』🔥](https://t.me/vip_dunia)
+𝐘𝐄𝐇 𝐉𝐎𝐈𝐍 𝐊𝐑 𝐋𝐎 𝐘𝐀𝐀𝐑𝐀 ➪ [🔥『LOVERS GROUP』🔥](https://t.me/lovers_dunia)
                    
 ⏤͟͟͞͞•𓊈𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 ≛⃝🕊[@THE_VIP_BOY](https://t.me/the_vip_boy)⛦⃕͜🇮🇳𓊉
 """
