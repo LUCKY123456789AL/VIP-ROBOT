@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg">
 </p>
 
-_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [VIP MANAGER ʀᴏʙᴏᴛ](https://t.me/TG_MANAGER_ROBOT)_
+_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [TG MANAGER](https://t.me/TG_MANAGER_ROBOT)_
 ━━━━━━━━━━━━━━━━━━━━
 
 
