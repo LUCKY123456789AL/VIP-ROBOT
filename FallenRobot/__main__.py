@@ -106,16 +106,16 @@ buttons = [
     [
         InlineKeyboardButton(
             text="🕊️𝐂𝐋𝐈𝐂𝐊 𝐇𝐄𝐑𝐄 & 𝐀𝐃𝐃 𝐅𝐀𝐒𝐓🕊️",
-            url=f"https://t.me/TG_MANAGER_ROBOT?startgroup=true",
+            url=f"https://t.me/Hot_music_zbot?startgroup=true",
         ),
     ],
     [
         InlineKeyboardButton(text="🥵𝐇𝐎𝐓 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒🥵", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/LOVERS_DUNIA"),
-        InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/THE_VIP_BOY"),
-        InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/vip_creators"),
+        InlineKeyboardButton(text="⚡𝐉𝐀𝐀𝐍⚡", url=f"https://t.me/+8spjlBYe_alkNDRl"),
+        InlineKeyboardButton(text="🥀𝐏𝐀𝐏𝐀 𝐉𝐈🥀", url=f"https://t.me/Ishq_ka_raja_143"),
+        InlineKeyboardButton(text="💫𝐏𝐑𝐀𝐍💫", url=f"https://t.me/all_bot_lucky"),
     ],
     [
         InlineKeyboardButton(
