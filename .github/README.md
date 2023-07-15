@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    𝄟🌹🇻 🇮 🇵  🇷 🇴 🇧 🇴 🇹​​​​​🌹​​​​​𝄟​​​​​
+      👤😎⊥OᙠOᴚ -XX∀ᗡ  👤😎
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg">
+  <img src="https://graph.org/file/aa8b72e0dcc7385105f1b.jpg">
 </p>
 
-_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [TG MANAGER](https://t.me/TG_MANAGER_ROBOT)_
+_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [🅲𝚈𝙱𝙴𝚁❦🅳𝙰𝚇𝚇⛧‌ٖٖٖٖٖٖٜٖٖٖٖ𖣔⛧‌ٖٖٖٖٖٖٜٖ](https://t.me/CYBERDAXX)_
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -30,10 +30,10 @@ _ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [TG MANAGER](https://t
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/LOVERS_DUNIA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/CYBERDAXXX"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/VIP_CREATORS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/CYBERDAXX"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
