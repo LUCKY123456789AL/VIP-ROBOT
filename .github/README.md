@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg">
+  <img src="https://graph.org/file/aa8b72e0dcc7385105f1b.jpg">
 </p>
 
 _ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [TG MANAGER](https://t.me/TG_MANAGER_ROBOT)_
