@@ -55,12 +55,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "THE_VIP_BOY"
+         "value": ""
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "LOVERS_DUNIA"
+         "value": ""
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -118,7 +118,7 @@
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
-         "value": "ANYTHING"
+         "value": ""
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
@@ -142,7 +142,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
          "required": false,
-         "value": "https://t.me/THE_VIP_BOY"
+         "value": "https://t.me/CYBERDAXX"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -151,7 +151,7 @@
       "START_IMG": {
       "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://telegra.ph/file/b2b4fee33e6c7d2a5651a.jpg"
+         "value": "https://graph.org/file/aa8b72e0dcc7385105f1b.jpg"
    }
    }
 }
