@@ -8,7 +8,7 @@
   <img src="https://graph.org/file/aa8b72e0dcc7385105f1b.jpg">
 </p>
 
-_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [TG MANAGER](https://t.me/TG_MANAGER_ROBOT)_
+_ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [🅲𝚈𝙱𝙴𝚁❦🅳𝙰𝚇𝚇⛧‌ٖٖٖٖٖٖٜٖٖٖٖ𖣔⛧‌ٖٖٖٖٖٖٜٖ](https://t.me/CYBERDAXX)_
 ━━━━━━━━━━━━━━━━━━━━
 
 
