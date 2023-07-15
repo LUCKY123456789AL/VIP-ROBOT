@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+   "repository": "https://github.com/DAXXSIR/DAXX-ROBOT/blob/master/app.json",
    "stack": "heroku-20",
    "addons": [
       {
